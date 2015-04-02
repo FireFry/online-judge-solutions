@@ -1,5 +1,5 @@
 /**
- * Given a tree {@code t} and a range {@code [a..b]} you need to find the size of the largest subtree
+ * Given a binary search tree {@code t} and a range {@code [a..b]} you need to find the size of the largest subtree
  * of {@code t} in which all nodes have value inside given range.
  */
 public class LargestSubtreeWithinRange {
